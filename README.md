@@ -3,6 +3,7 @@
 Một chiếc máy tính đơn giản viết bằng C++
 
 ## Tính năng 
+- Tính Phương trình bậc 2
 - Phép cộng (+)
 - Phép trừ (-)
 - Phép nhân (*)
